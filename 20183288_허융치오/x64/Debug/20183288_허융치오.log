@@ -1,0 +1,77 @@
+﻿  20183288_허융차오_main_7.cpp
+D:\下载文件\20183288_허융치오\Renderer_7.h(9,1): error C2504: “Controls”: 未定义基类
+  controls.cpp
+D:\下载文件\20183288_허융치오\controls.h(3,11): error C2653: “glm”: 不是类或命名空间名称
+D:\下载文件\20183288_허융치오\controls.h(3,21): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\下载文件\20183288_허융치오\controls.h(3,11): error C2146: 语法错误: 缺少“;”(在标识符“ViewMatrix”的前面)
+D:\下载文件\20183288_허융치오\controls.h(4,11): error C2653: “glm”: 不是类或命名空间名称
+D:\下载文件\20183288_허융치오\controls.h(4,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\下载文件\20183288_허융치오\controls.h(4,6): error C2086: “int mat4”: 重定义
+D:\下载文件\20183288_허융치오\controls.h(3): message : 参见“mat4”的声明
+D:\下载文件\20183288_허융치오\controls.h(4,11): error C2146: 语法错误: 缺少“;”(在标识符“ProjectionMatrix”的前面)
+D:\下载文件\20183288_허융치오\controls.h(6,11): error C2653: “glm”: 不是类或命名空间名称
+D:\下载文件\20183288_허융치오\controls.h(6,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\下载文件\20183288_허융치오\controls.h(6,6): error C2086: “int mat4”: 重定义
+D:\下载文件\20183288_허융치오\controls.h(3): message : 参见“mat4”的声明
+D:\下载文件\20183288_허융치오\controls.h(6,11): error C2146: 语法错误: 缺少“;”(在标识符“getViewMatrix”的前面)
+D:\下载文件\20183288_허융치오\controls.h(6,27): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\下载文件\20183288_허융치오\controls.h(6,27): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\下载文件\20183288_허융치오\controls.h(9,11): error C2653: “glm”: 不是类或命名空间名称
+D:\下载文件\20183288_허융치오\controls.h(9,30): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\下载文件\20183288_허융치오\controls.h(9,6): error C2086: “int mat4”: 重定义
+D:\下载文件\20183288_허융치오\controls.h(3): message : 参见“mat4”的声明
+D:\下载文件\20183288_허융치오\controls.h(9,11): error C2146: 语法错误: 缺少“;”(在标识符“getProjectionMatrix”的前面)
+D:\下载文件\20183288_허융치오\controls.h(9,33): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\下载文件\20183288_허융치오\controls.h(9,33): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\下载文件\20183288_허융치오\controls.h(16,12): error C2653: “glm”: 不是类或命名空间名称
+D:\下载文件\20183288_허융치오\controls.h(16,22): error C3646: “ViewMatrix”: 未知重写说明符
+D:\下载文件\20183288_허융치오\controls.h(16,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\下载文件\20183288_허융치오\controls.h(17,12): error C2653: “glm”: 不是类或命名空间名称
+D:\下载文件\20183288_허융치오\controls.h(17,28): error C3646: “ProjectionMatrix”: 未知重写说明符
+D:\下载文件\20183288_허융치오\controls.h(17,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\下载文件\20183288_허융치오\controls.h(19,12): error C2653: “glm”: 不是类或命名空间名称
+D:\下载文件\20183288_허융치오\controls.h(19,25): error C3646: “getViewMatrix”: 未知重写说明符
+D:\下载文件\20183288_허융치오\controls.h(19,25): error C2059: 语法错误:“(”
+D:\下载文件\20183288_허융치오\controls.h(19,28): error C2334: “{”的前面有意外标记；跳过明显的函数体
+D:\下载文件\20183288_허융치오\controls.h(22,12): error C2653: “glm”: 不是类或命名空间名称
+D:\下载文件\20183288_허융치오\controls.h(22,31): error C3646: “getProjectionMatrix”: 未知重写说明符
+D:\下载文件\20183288_허융치오\controls.h(22,31): error C2059: 语法错误:“(”
+D:\下载文件\20183288_허융치오\controls.h(22,34): error C2334: “{”的前面有意外标记；跳过明显的函数体
+D:\下载文件\20183288_허융치오\controls.cpp(72,2): error C2065: “ProjectionMatrix”: 未声明的标识符
+D:\下载文件\20183288_허융치오\controls.cpp(74,2): error C2065: “ViewMatrix”: 未声明的标识符
+  FileManager_7.cpp
+  Object_7.cpp
+D:\下载文件\20183288_허융치오\Object_7.cpp(33,1): error C2084: 函数“void NonRenderableObject::shutDown(void)”已有主体
+D:\下载文件\20183288_허융치오\Object_7.h(66): message : 参见“shutDown”的前一个定义
+D:\下载文件\20183288_허융치오\Object_7.cpp(38,1): error C2084: 函数“void NonRenderableObject::update(void)”已有主体
+D:\下载文件\20183288_허융치오\Object_7.h(68): message : 参见“update”的前一个定义
+  Renderer_7.cpp
+D:\下载文件\20183288_허융치오\Renderer_7.h(9,1): error C2504: “Controls”: 未定义基类
+D:\下载文件\20183288_허융치오\IUpdater.h(5,1): error C2011: “IUpdater”:“class”类型重定义
+D:\下载文件\20183288_허융치오\Renderer_7.h(5): message : 参见“IUpdater”的声明
+D:\下载文件\20183288_허융치오\Renderer_7.cpp(18,52): error C2679: 二进制“=”: 没有找到接受“std::vector<IRenderer *,std::allocator<IRenderer *>> *”类型的右操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\vector(1175,13): message : 可能是“std::vector<IRenderer *,std::allocator<IRenderer *>> &std::vector<IRenderer *,std::allocator<IRenderer *>>::operator =(std::initializer_list<_Ty>)”
+          with
+          [
+              _Ty=IRenderer *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\vector(1167,13): message : 或    “std::vector<IRenderer *,std::allocator<IRenderer *>> &std::vector<IRenderer *,std::allocator<IRenderer *>>::operator =(const std::vector<IRenderer *,std::allocator<IRenderer *>> &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\vector(664,13): message : 或    “std::vector<IRenderer *,std::allocator<IRenderer *>> &std::vector<IRenderer *,std::allocator<IRenderer *>>::operator =(std::vector<IRenderer *,std::allocator<IRenderer *>> &&) noexcept(<expr>)”
+D:\下载文件\20183288_허융치오\Renderer_7.cpp(18,52): message : 尝试匹配参数列表“(std::vector<IRenderer *,std::allocator<IRenderer *>>, std::vector<IRenderer *,std::allocator<IRenderer *>> *)”时
+D:\下载文件\20183288_허융치오\Renderer_7.cpp(71,2): error C3861: “computeMatricesFromInputs”: 找不到标识符
+D:\下载文件\20183288_허융치오\Renderer_7.cpp(121,56): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\下载文件\20183288_허융치오\Renderer_7.cpp(133,9): error C2027: 使用了未定义类型“IUpdater”
+D:\下载文件\20183288_허융치오\Renderer_7.h(5): message : 参见“IUpdater”的声明
+D:\下载文件\20183288_허융치오\Renderer_7.cpp(138,18): error C2819: “std::vector<IRenderer *,std::allocator<IRenderer *>>”类型没有重载成员“operator ->”
+D:\下载文件\20183288_허융치오\Renderer_7.h(13): message : 参见“std::vector<IRenderer *,std::allocator<IRenderer *>>”的声明
+D:\下载文件\20183288_허융치오\Renderer_7.cpp(138,18): message : 是否改用“.”?
+D:\下载文件\20183288_허융치오\Renderer_7.cpp(138,29): error C2232: “->std::vector<IRenderer *,std::allocator<IRenderer *>>::push_back”: 左操作数有“class”类型，使用“.”
+D:\下载文件\20183288_허융치오\Renderer_7.cpp(143,25): error C2440: “delete”: 无法从“std::vector<IRenderer *,std::allocator<IRenderer *>>”转换为“void*”
+D:\下载文件\20183288_허융치오\Renderer_7.cpp(143,9): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  SampleNonRenderObj.cpp
+D:\下载文件\20183288_허융치오\SampleNonRenderObj.cpp(4,1): error C2084: 函数“void SampleNonRenderObj::shutDown(void)”已有主体
+D:\下载文件\20183288_허융치오\SampleNonRenderObj.h(8): message : 参见“shutDown”的前一个定义
+D:\下载文件\20183288_허융치오\SampleNonRenderObj.cpp(9,1): error C2084: 函数“void SampleNonRenderObj::update(void)”已有主体
+D:\下载文件\20183288_허융치오\SampleNonRenderObj.h(10): message : 参见“update”的前一个定义
+  Sphere.cpp
+  正在生成代码...

@@ -1,0 +1,51 @@
+﻿  20183288_허융차오_main_5.cpp
+  FileManager_5.cpp
+  Object_5.cpp
+  Renderer_5.cpp
+  正在生成代码...
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewCompressedTexImage2D
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewBindBuffer
+Renderer_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewBindBuffer
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewBufferData
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewGenBuffers
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewAttachShader
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewCompileShader
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewCreateProgram
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewCreateShader
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewDeleteShader
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewDetachShader
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewGetProgramInfoLog
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewGetProgramiv
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewGetShaderInfoLog
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewGetShaderiv
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewGetUniformLocation
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewLinkProgram
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewShaderSource
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewUseProgram
+Renderer_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewUseProgram
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewBindVertexArray
+FileManager_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewGenVertexArrays
+Object_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewDeleteBuffers
+Object_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewDeleteProgram
+Object_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewDeleteVertexArrays
+Renderer_5.obj : error LNK2019: 无法解析的外部符号 __imp__glewInit@0，该符号在函数 "public: void __thiscall Renderer::init(void)" (?init@Renderer@@QAEXXZ) 中被引用
+Renderer_5.obj : error LNK2019: 无法解析的外部符号 _glfwInit，该符号在函数 "public: void __thiscall Renderer::init(void)" (?init@Renderer@@QAEXXZ) 中被引用
+Renderer_5.obj : error LNK2019: 无法解析的外部符号 _glfwTerminate，该符号在函数 "public: void __thiscall Renderer::init(void)" (?init@Renderer@@QAEXXZ) 中被引用
+Renderer_5.obj : error LNK2019: 无法解析的外部符号 _glfwWindowHint，该符号在函数 "public: void __thiscall Renderer::init(void)" (?init@Renderer@@QAEXXZ) 中被引用
+Renderer_5.obj : error LNK2019: 无法解析的外部符号 _glfwCreateWindow，该符号在函数 "public: void __thiscall Renderer::init(void)" (?init@Renderer@@QAEXXZ) 中被引用
+Renderer_5.obj : error LNK2019: 无法解析的外部符号 _glfwPollEvents，该符号在函数 "public: void __thiscall Renderer::init(void)" (?init@Renderer@@QAEXXZ) 中被引用
+Renderer_5.obj : error LNK2019: 无法解析的外部符号 _glfwSetInputMode，该符号在函数 "public: void __thiscall Renderer::init(void)" (?init@Renderer@@QAEXXZ) 中被引用
+Renderer_5.obj : error LNK2019: 无法解析的外部符号 _glfwSetCursorPos，该符号在函数 "public: void __thiscall Renderer::init(void)" (?init@Renderer@@QAEXXZ) 中被引用
+Renderer_5.obj : error LNK2019: 无法解析的外部符号 _glfwMakeContextCurrent，该符号在函数 "public: void __thiscall Renderer::init(void)" (?init@Renderer@@QAEXXZ) 中被引用
+Renderer_5.obj : error LNK2019: 无法解析的外部符号 _glfwSwapBuffers，该符号在函数 "public: void __thiscall Renderer::render(class Object *)" (?render@Renderer@@QAEXPAVObject@@@Z) 中被引用
+Renderer_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewActiveTexture
+Renderer_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewDisableVertexAttribArray
+Renderer_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewEnableVertexAttribArray
+Renderer_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewUniform1i
+Renderer_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewUniform3f
+Renderer_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewUniformMatrix4fv
+Renderer_5.obj : error LNK2001: 无法解析的外部符号 __imp____glewVertexAttribPointer
+Renderer_5.obj : error LNK2001: 无法解析的外部符号 __imp__glewExperimental
+lib-vc2017\glew32.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+lib-vc2017\glfw3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\Debug\20183288_허융치오.exe : fatal error LNK1120: 41 个无法解析的外部命令
